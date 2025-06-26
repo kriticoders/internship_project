@@ -441,5 +441,24 @@ input,select{
   border: radius 5px; 
 
 }
+.error{
+  height: 100vh;
+ background-color: aliceblue;
+  
+}
+.error h1{
 
+  color:#8A0000;
+  background-color:aliceblue;
+ text-align: center;
+
+
+}
+.error p{
+  color:#8A0000;
+  background-color:aliceblue;
+ 
+  text-align: center;
+
+}
 
